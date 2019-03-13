@@ -7,13 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Mark O Sheas Website</title>
+        <title>Mark O Shea's Website</title>
         <link rel="stylesheet" type="text/css" href="styles.css">
     </head>
     <body>
         <table>
             <td><a href="index.html">My CV</a></td>
-            <td><a href="consultancy.php">Consutling Services</a></td>
+            <td><a href="home.html">Consulting Services</a></td>
             <td><a href="tiltedpage_scroll-master\demo\tiltedpage_scroll_demo.html">Interests</a></td>
         </table>
     </body>

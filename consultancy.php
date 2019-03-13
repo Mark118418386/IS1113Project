@@ -1,8 +1,5 @@
-<?php
+<td><a href="home.html">Home</a></td>
+            <td><a href="about.php">About Consulting</a></td>
+            <td><a href="ebus1.php">Services</a></td>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
